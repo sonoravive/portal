@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   console.log("elementos a animar"+elementosAnimar);
   let indiceElemento = 1;
-  const tiempoAnimacion = 10000; // Duración de la animación en 
+  const tiempoAnimacion = 3000; // Duración de la animación en 
   const tiempoPausa = 1; // Pausa entre animaciones
 
   // Función que se encarga de animar un solo elemento
